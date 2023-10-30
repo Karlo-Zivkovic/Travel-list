@@ -1,5 +1,5 @@
 <h1>Description</h1>
-Further practice, state updates. Passing props. 
+State updates. Passing props. 
 <br />
 
 <h2>Libraries and Utilities Used</h2>
@@ -10,3 +10,7 @@ Further practice, state updates. Passing props.
 
 - <b>npm install</b>
 - <b>npm start</b>
+
+<h2>Project screenshot</h2>
+
+<img src="https://i.imgur.com/9y2u6ep.png" height="80%" width="80%" alt="project screenshot"/>
